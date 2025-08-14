@@ -1,5 +1,6 @@
 # Java Decolloquailizer
-Decolloqualize your file containing colloquial english words and make it formal.
+Decolloquailize your file containing colloquial english words and make it formal.
+(It will be released soon)
 ## Function
 1. Convert colloquial words into formal words
 2. Instead of find and replace method, automate the task completely
